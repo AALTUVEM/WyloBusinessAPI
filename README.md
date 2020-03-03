@@ -18,7 +18,8 @@ nodemon<br/>
   "description": "Wylo Database",<br/>
   "main": "index.js",<br/>
   
-  /** Scripts agregados **/<br/><br/>
+  /** Scripts agregados **
+  /<br/><br/>
   "scripts": {<br/>
     "dev": "nodemon src/index.js --exec babel-node",<br/>
     "build": "babel src --out-dir dist",<br/>
