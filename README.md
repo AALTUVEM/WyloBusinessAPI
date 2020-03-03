@@ -1,7 +1,7 @@
-# WyloBusinessAPI
+# WyloBusinessAPI<br/>
 WyloBusinessAPI
 
-# Modulos usados:
+# Modulos usados:<br/>
 express <br/>
 sequelizejs<br/>
 morgan<br/>
@@ -12,7 +12,7 @@ babel/polyfill<br/>
 mysql2<br/>
 nodemon<br/>
 
-#Cambios package.json
+# Cambios package.json<br/>
  "name": "wylodatabase",<br/>
   "version": "1.0.0",<br/>
   "description": "Wylo Database",<br/>
@@ -26,7 +26,8 @@ nodemon<br/>
     "start": "node dist/index.js"<br/>
   }
 
-#Estructura del proyecto
+# Estructura del proyecto<br/>
+
 >wylodatabase<br/>
 >> dist<br/>
 >> node_modules<br/>
