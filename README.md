@@ -36,7 +36,7 @@ nodemon<br/>
 >package-lock.json<br/>
 >package.json<br/>
 
-#.babelrc <br/>
+# .babelrc <br/>
 <br/>
 {<br/>
     "presets":[<br/>
