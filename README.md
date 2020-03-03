@@ -35,3 +35,11 @@ nodemon<br/>
 >.babelrc<br/>
 >package-lock.json<br/>
 >package.json<br/>
+
+#.babelrc <br/>
+<br/>
+{<br/>
+    "presets":[<br/>
+        "@babel/preset-env"<br/>
+    ]<br/>
+}<br/>
