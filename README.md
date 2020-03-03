@@ -3,24 +3,24 @@ WyloBusinessAPI
 
 # Modulos usados:
 express <br/>
-sequelizejs
-morgan
-babel/core
-babel/cli
-babel/preset-env
-babel/polyfill
-mysql2
-nodemon
+sequelizejs<br/>
+morgan<br/>
+babel/core<br/>
+babel/cli<br/>
+babel/preset-env<br/>
+babel/polyfill<br/>
+mysql2<br/>
+nodemon<br/>
 
 #Cambios package.json
- "name": "wylodatabase",
-  "version": "1.0.0",
-  "description": "Wylo Database",
-  "main": "index.js",
+ "name": "wylodatabase",<br/>
+  "version": "1.0.0",<br/>
+  "description": "Wylo Database",<br/>
+  "main": "index.js",<br/>
   
   /** Scripts agregados **/
-  "scripts": {
-    "dev": "nodemon src/index.js --exec babel-node",
-    "build": "babel src --out-dir dist",
-    "start": "node dist/index.js"
+  "scripts": {<br/>
+    "dev": "nodemon src/index.js --exec babel-node",<br/>
+    "build": "babel src --out-dir dist",<br/>
+    "start": "node dist/index.js"<br/>
   }
