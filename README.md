@@ -2,7 +2,7 @@
 WyloBusinessAPI
 
 # Modulos usados:
-express
+express <br/>
 sequelizejs
 morgan
 babel/core
