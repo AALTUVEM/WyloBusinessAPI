@@ -25,3 +25,12 @@ nodemon<br/>
     "build": "babel src --out-dir dist",<br/>
     "start": "node dist/index.js"<br/>
   }
+
+#Estructura del proyecto
+>wylodatabase<br/>
+>> dist<br/>
+>> node_modules<br/>
+>> src <---- Lo que esta en github<br/>
+>.babelrc<br/>
+>package-lock.json<br/>
+>package.json<br/>
